@@ -3,7 +3,18 @@ You will research and present an ethical issue related to the Internet and/or Th
 
 ## Issue overview
 
-TBD by you. See instructions below.
+Web Archives and Deleted Pages
+
+The issue I'm covering is whether deleted web pages should remain accessible through web archives like the Internet Archive’s Wayback Machine. They save copies of websites over time, even if the original page is later changed, deleted, or taken offline. 
+
+Supporters argue that this is important because the web changes constantly, and archived pages can preserve certain important things like history, journalism, legal evidence, and public accountability.
+
+However critics argue that web archives can create privacy problems by keeping old or unwanted information online after someone tried to remove it. A deleted page might include things like personal details, embarrassing posts, outdated information, or content that was uploaded without full consent. From this perspective, permanent archiving can make it harder for people to move on from past information.
+
+links
+https://blog.archive.org/2026/06/01/keep-the-news-in-the-wayback-machine/
+
+https://time.com/100553/you-have-the-right-to-be-forgotten/
 
 ## Instructions
 
